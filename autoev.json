@@ -1,15 +1,15 @@
 {
 	"network": [
     {
-      "id":	"net",
+      "id": "net",
       "level1":	{
-      	"level11":	"whatevaseder text"
+      	"level11": "whatevaseder text"
     	},
-    "level2":	{
-    	"level21":	"level 21 text",
-    	"level22":	"level 22 text",
-    	"level23":	"level 23 text",
-    	"level24":	"level 24 text"
+    "level2": {
+    	"level21": "level 21 text",
+    	"level22": "level 22 text",
+    	"level23": "level 23 text",
+    	"level24": "level 24 text"
     },
 	    "level3":	{
     	"level31":	"level 31 text",
