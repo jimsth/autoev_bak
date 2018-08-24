@@ -2,23 +2,23 @@
 	"networking": [
     {
       "id":	"net",
-      "net1":	{
-      	"net1.1":	"whatever text"
+      "level1":	{
+      	"level1.1":	"whatever text"
     	},
-    "net2":	{
-    	"net2.1":	"level 2.1 text",
-    	"net2.2":	"level 2.2 text",
-    	"net2.3":	"level 2.3 text",
-    	"net2.4":	"level 2.4 text"
+    "level2":	{
+    	"level2.1":	"level 2.1 text",
+    	"level2.2":	"level 2.2 text",
+    	"level2.3":	"level 2.3 text",
+    	"level2.4":	"level 2.4 text"
     },
-	    "net3":	{
-    	"net3.1":	"level 3.1 text",
-    	"net3.2":	"level 3.2 text",
-    	"net3.3":	"level 3.3 text"
+	    "level3":	{
+    	"level3.1":	"level 3.1 text",
+    	"level3.2":	"level 3.2 text",
+    	"level3.3":	"level 3.3 text"
     },
-	    "net4":	{
-    	"net4.1":	"level 4.1 text",
-    	"net4.2":	"level 4.2 text"
+	    "level4":	{
+    	"level4.1":	"level 4.1 text",
+    	"level4.2":	"level 4.2 text"
     }
     }
     ],
