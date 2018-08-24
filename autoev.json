@@ -3,22 +3,22 @@
     {
       "id":	"net",
       "level1":	{
-      	"level1.1":	"whatever text"
+      	"level11":	"whatever text"
     	},
     "level2":	{
-    	"level2.1":	"level 2.1 text",
-    	"level2.2":	"level 2.2 text",
-    	"level2.3":	"level 2.3 text",
-    	"level2.4":	"level 2.4 text"
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 23 text",
+    	"level24":	"level 24 text"
     },
 	    "level3":	{
-    	"level3.1":	"level 3.1 text",
-    	"level3.2":	"level 3.2 text",
-    	"level3.3":	"level 3.3 text"
+    	"level31":	"level 31 text",
+    	"level32":	"level 32 text",
+    	"level33":	"level 33 text"
     },
 	    "level4":	{
-    	"level4.1":	"level 4.1 text",
-    	"level4.2":	"level 4.2 text"
+    	"level41":	"level 41 text",
+    	"level42":	"level 42 text"
     }
     }
     ],
@@ -26,30 +26,30 @@
     {
       "id":	"os",
       "level1":	{
-    	"level1.1":	"level 1.1 text",
-    	"level1.2":	"level 1.2 text",
-    	"level1.3":	"level 1.3 text"
+    	"level11":	"level 11 text",
+    	"level12":	"level 12 text",
+    	"level13":	"level 13 text"
     	},
     "level2":	{
-    	"level2.1":	"level 2.1 text",
-    	"level2.2":	"level 2.2 text",
-    	"level2.3":	"level 2.1 text",
-    	"level2.4":	"level 2.2 text",
-    	"level2.5":	"level 2.1 text",
-    	"level2.6":	"level 2.2 text"
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 21 text",
+    	"level24":	"level 22 text",
+    	"level25":	"level 21 text",
+    	"level26":	"level 22 text"
     },
 	    "level3":	{
-    	"level3.1":	"level 3.1 text",
-    	"level3.2":	"level 3.2 text",
-    	"level3.3":	"level 3.3 text",
-    	"level3.4":	"level 3.4 text",
-    	"level3.5":	"level 3.5 text",
-    	"level3.6":	"level 3.6 text"
+    	"level31":	"level 31 text",
+    	"level32":	"level 32 text",
+    	"level33":	"level 33 text",
+    	"level34":	"level 34 text",
+    	"level35":	"level 35 text",
+    	"level36":	"level 36 text"
     },
 	    "level4":	{
-    	"level4.1":	"level 4.1 text",
-    	"level4.2":	"level 4.2 text",
-    	"level4.3":	"level 4.1 text"
+    	"level41":	"level 41 text",
+    	"level42":	"level 42 text",
+    	"level43":	"level 41 text"
     }
     }
     ],
@@ -57,41 +57,41 @@
     {
       "id":	"database",
       "level1":	{
-      	"level1.1":	"whatever text",
-      	"level1.2":	"whatever text",
-      	"level1.3":	"whatever text"
+      	"level11":	"whatever text",
+      	"level12":	"whatever text",
+      	"level13":	"whatever text"
     	},
     "level2":	{
-    	"level2.1":	"level 2.1 text",
-    	"level2.2":	"level 2.2 text",
-    	"level2.3":	"level 2.1 text",
-    	"level2.4":	"level 2.1 text",
-    	"level2.5":	"level 2.1 text",
-    	"level2.6":	"level 2.1 text",
-    	"level2.7":	"level 2.1 text",
-    	"level2.8":	"level 2.1 text",
-    	"level2.9":	"level 2.1 text",
-    	"level2.10":	"level 2.1 text"
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 21 text",
+    	"level24":	"level 21 text",
+    	"level25":	"level 21 text",
+    	"level26":	"level 21 text",
+    	"level27":	"level 21 text",
+    	"level28":	"level 21 text",
+    	"level29":	"level 21 text",
+    	"level210":	"level 21 text"
     },
 	    "level3":	{
-    	"level3.1":	"level 2.1 text",
-    	"level3.2":	"level 2.2 text",
-    	"level3.3":	"level 2.1 text",
-    	"level3.4":	"level 2.1 text",
-    	"level3.5":	"level 2.1 text",
-    	"level3.6":	"level 2.1 text",
-    	"level3.7":	"level 2.1 text",
-    	"level3.8":	"level 2.1 text",
-    	"level3.9":	"level 2.1 text"
+    	"level31":	"level 21 text",
+    	"level32":	"level 22 text",
+    	"level33":	"level 21 text",
+    	"level34":	"level 21 text",
+    	"level35":	"level 21 text",
+    	"level36":	"level 21 text",
+    	"level37":	"level 21 text",
+    	"level38":	"level 21 text",
+    	"level39":	"level 21 text"
     },
 	    "level4":	{
-    	"level4.1":	"level 4.1 text",
-    	"level4.2":	"level 4.1 text",
-    	"level4.3":	"level 4.1 text",
-    	"level4.4":	"level 4.1 text",
-    	"level4.5":	"level 4.1 text",
-    	"level4.6":	"level 4.1 text",
-    	"level4.7":	"level 4.1 text"
+    	"level41":	"level 41 text",
+    	"level42":	"level 41 text",
+    	"level43":	"level 41 text",
+    	"level44":	"level 41 text",
+    	"level45":	"level 41 text",
+    	"level46":	"level 41 text",
+    	"level47":	"level 41 text"
     }
     }
     ],
@@ -99,41 +99,41 @@
     {
       "id":	"sap",
       "level1":	{
-      	"level1.1":	"whatever text",
-        "level1.2":	"whatever text",
-      	"level1.3":	"whatever text",
-      	"level1.4":	"whatever text",
-      	"level1.5":	"whatever text",
-      	"level1.6":	"whatever text",
-      	"level1.7":	"whatever text"
+      	"level11":	"whatever text",
+        "level12":	"whatever text",
+      	"level13":	"whatever text",
+      	"level14":	"whatever text",
+      	"level15":	"whatever text",
+      	"level16":	"whatever text",
+      	"level17":	"whatever text"
     	},
     "level2":	{
-      	"level2.1":	"whatever text",
-        "level2.2":	"whatever text",
-      	"level2.3":	"whatever text",
-      	"level2.4":	"whatever text",
-      	"level2.5":	"whatever text",
-      	"level2.6":	"whatever text",
-      	"level2.7":	"whatever text",
-      	"level2.8":	"whatever text",
-      	"level2.9":	"whatever text",
-      	"level2.10":	"whatever text"
+      	"level21":	"whatever text",
+        "level22":	"whatever text",
+      	"level23":	"whatever text",
+      	"level24":	"whatever text",
+      	"level25":	"whatever text",
+      	"level26":	"whatever text",
+      	"level27":	"whatever text",
+      	"level28":	"whatever text",
+      	"level29":	"whatever text",
+      	"level210":	"whatever text"
     },
 	    "level3":	{
-      	"level3.1":	"whatever text",
-        "level3.2":	"whatever text",
-      	"level3.3":	"whatever text",
-      	"level3.4":	"whatever text",
-      	"level3.5":	"whatever text",
-      	"level3.6":	"whatever text",
-      	"level3.7":	"whatever text"
+      	"level31":	"whatever text",
+        "level32":	"whatever text",
+      	"level33":	"whatever text",
+      	"level34":	"whatever text",
+      	"level35":	"whatever text",
+      	"level36":	"whatever text",
+      	"level37":	"whatever text"
     },
 	    "level4":	{
-    	  "level4.1":	"level 4.1 text",
-    	  "level4.2":	"level 4.2 text",
-    	  "level4.3":	"level 4.1 text",
-    	  "level4.4":	"level 4.2 text",
-    	  "level4.5":	"level 4.1 text"
+    	  "level41":	"level 41 text",
+    	  "level42":	"level 42 text",
+    	  "level43":	"level 41 text",
+    	  "level44":	"level 42 text",
+    	  "level45":	"level 41 text"
     }
     }
     ]
