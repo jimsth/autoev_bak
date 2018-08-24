@@ -1,0 +1,140 @@
+{
+	"network": [
+    {
+      "id":	"net",
+      "level1":	{
+      	"level11":	"whatever text"
+    	},
+    "level2":	{
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 23 text",
+    	"level24":	"level 24 text"
+    },
+	    "level3":	{
+    	"level31":	"level 31 text",
+    	"level32":	"level 32 text",
+    	"level33":	"level 33 text"
+    },
+	    "level4":	{
+    	"level41":	"level 41 text",
+    	"level42":	"level 42 text"
+    }
+    }
+    ],
+  "os": [
+    {
+      "id":	"os",
+      "level1":	{
+    	"level11":	"level 11 text",
+    	"level12":	"level 12 text",
+    	"level13":	"level 13 text"
+    	},
+    "level2":	{
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 21 text",
+    	"level24":	"level 22 text",
+    	"level25":	"level 21 text",
+    	"level26":	"level 22 text"
+    },
+	    "level3":	{
+    	"level31":	"level 31 text",
+    	"level32":	"level 32 text",
+    	"level33":	"level 33 text",
+    	"level34":	"level 34 text",
+    	"level35":	"level 35 text",
+    	"level36":	"level 36 text"
+    },
+	    "level4":	{
+    	"level41":	"level 41 text",
+    	"level42":	"level 42 text",
+    	"level43":	"level 41 text"
+    }
+    }
+    ],
+	"database": [
+    {
+      "id":	"database",
+      "level1":	{
+      	"level11":	"whatever text",
+      	"level12":	"whatever text",
+      	"level13":	"whatever text"
+    	},
+    "level2":	{
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 21 text",
+    	"level24":	"level 21 text",
+    	"level25":	"level 21 text",
+    	"level26":	"level 21 text",
+    	"level27":	"level 21 text",
+    	"level28":	"level 21 text",
+    	"level29":	"level 21 text",
+    	"level210":	"level 21 text"
+    },
+	    "level3":	{
+    	"level31":	"level 21 text",
+    	"level32":	"level 22 text",
+    	"level33":	"level 21 text",
+    	"level34":	"level 21 text",
+    	"level35":	"level 21 text",
+    	"level36":	"level 21 text",
+    	"level37":	"level 21 text",
+    	"level38":	"level 21 text",
+    	"level39":	"level 21 text"
+    },
+	    "level4":	{
+    	"level41":	"level 41 text",
+    	"level42":	"level 41 text",
+    	"level43":	"level 41 text",
+    	"level44":	"level 41 text",
+    	"level45":	"level 41 text",
+    	"level46":	"level 41 text",
+    	"level47":	"level 41 text"
+    }
+    }
+    ],
+  "sap": [
+    {
+      "id":	"sap",
+      "level1":	{
+      	"level11":	"whatever text",
+        "level12":	"whatever text",
+      	"level13":	"whatever text",
+      	"level14":	"whatever text",
+      	"level15":	"whatever text",
+      	"level16":	"whatever text",
+      	"level17":	"whatever text"
+    	},
+    "level2":	{
+      	"level21":	"whatever text",
+        "level22":	"whatever text",
+      	"level23":	"whatever text",
+      	"level24":	"whatever text",
+      	"level25":	"whatever text",
+      	"level26":	"whatever text",
+      	"level27":	"whatever text",
+      	"level28":	"whatever text",
+      	"level29":	"whatever text",
+      	"level210":	"whatever text"
+    },
+	    "level3":	{
+      	"level31":	"whatever text",
+        "level32":	"whatever text",
+      	"level33":	"whatever text",
+      	"level34":	"whatever text",
+      	"level35":	"whatever text",
+      	"level36":	"whatever text",
+      	"level37":	"whatever text"
+    },
+	    "level4":	{
+    	  "level41":	"level 41 text",
+    	  "level42":	"level 42 text",
+    	  "level43":	"level 41 text",
+    	  "level44":	"level 42 text",
+    	  "level45":	"level 41 text"
+    }
+    }
+    ]
+}
