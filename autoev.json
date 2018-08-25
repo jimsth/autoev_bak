@@ -1,99 +1,71 @@
 {
 	"network": [
     {
-      "id":	"Networking",
-      "level1":	{
-		"levelname": "Level 1 – Basic",
-			"levelContents" : [{
+      "id":	"net",
+		"level1":	{
+			levelname": "Level 1 – Basic",
 			"level11":	"Basic theoretical knowledge of networking (knowing the main networking components and protocols)"
-			}]
-		},
-    "level2":	{
-		"levelname": "Level 2 - Intermediate",
-			"levelContents" : [{
+			},
+		"level2":	{
+			"levelname": "Level 2 - Intermediate",
 			"level21":	"Understand how SAP Systems communicate over the network",
 			"level22":	"Know SAP internal communication ports",
 			"level23":	"Theoretical understanding of SAP secure communications",
 			"level24":	"Capability to cooperate with network experts in solving networking issues"
-			}]
-		},
-	    "level3":	{
+			},
+	   "level3":	{
 			"levelname": "Level 3 - Advanced",
-			 "levelContents" : [{
 			"level31":	"Knows the network concepts that facilitate communication between SAP systems and other applications (interfacing with other non-SAP applications)",
 			"level32":	"Basic knowledge of SAP network security (gateway security, certificate, SNC….)",
 			"level33":	"Awareness regarding the dependencies between different SAP communication channels (how will a component failure affect the entire SAP ecosystem)"
-			}]
-		},
+			},
 	    "level4":	{
-		"levelname": "Level 4 - Expert",
-		"levelContents" : [{
-    	"level41":	"Provides specialized technical guidance on complex architecture challenges",
-    	"level42":	"Able to analyze existing network structure in order to define, design and achieve simplified, application- focused network architectures (finding bottlenecks, network tuning etc.)"
-		}]
-		}
+			"levelname": "Level 4 - Expert",
+    	    "level41":	"Provides specialized technical guidance on complex architecture challenges",
+			"level42":	"Able to analyze existing network structure in order to define, design and achieve simplified, application- focused network architectures (finding bottlenecks, network tuning etc.)"
+			}
     }
     ],
   "os": [
     {
-      "id":	"Operating Systems",
+      "id":	"os",
       "level1":	{
-		"levelname": "Level 1 – Basic",
-		"levelContents" : [{
-    	"level11":	"User concepts knowledge",
-    	"level12":	"File structure knowledge (content, permissions, navigation commands)",
-    	"level13":	"Being able to execute basic operating commands (familiar with terminal command lines)"
-    	}]
-		},
+    	"level11":	"level 11 text",
+    	"level12":	"level 12 text",
+    	"level13":	"level 13 text"
+    	},
     "level2":	{
-		"levelname": "Level 2 - Intermediate",
-		"levelContents" : [{
-    	"level21":	"Basic script understanding",
-    	"level22":	"Editing configuration files",
-    	"level23":	"Creating shares / Mounting",
-    	"level24":	"Basic OS performance management (identifying situations where resources are over-used – memory/CPU/disk)",
-    	"level25":	"Ability to install / activate additional OS components (Windows additional features, Unix packages)",
-    	"level26":	"User and Groups Management  (handling user policies in relation with network domains etc.)"
-	}]
-	},
-	
+    	"level21":	"level 21 text",
+    	"level22":	"level 22 text",
+    	"level23":	"level 21 text",
+    	"level24":	"level 22 text",
+    	"level25":	"level 21 text",
+    	"level26":	"level 22 text"
+    },
 	    "level3":	{
-		"levelname": "Level 3 - Advanced",
-		"levelContents" : [{
-    	"level31":	"File system creation/administration",
-    	"level32":	"Troubleshooting OS errors",
-    	"level33":	"Basic script creation",
-    	"level34":	"Advanced OS System Structure knowledge:Peripheral Management;Memory Management;Filesystem Management;Application Management",
-    	"level35":	"Patching OS according to SAP requirements",
-    			"level36":	"Use high availability OS environments"
-    }]
-	},
+    	"level31":	"level 31 text",
+    	"level32":	"level 32 text",
+    	"level33":	"level 33 text",
+    	"level34":	"level 34 text",
+    	"level35":	"level 35 text",
+    	"level36":	"level 36 text"
+    },
 	    "level4":	{
-		"levelname": "Level 4 - Expert",
-		"levelContents" : [{
-    	"level41":	"Advanced script creation and troubleshooting",
-    	"level42":	"Understanding how SAP components make use of low-level OS functionality (why are certain libraries, function calls etc. being called by SAP components)",
-    	"level43":	"Design and implement high availability OS environments"
-    }]
+    	"level41":	"level 41 text",
+    	"level42":	"level 42 text",
+    	"level43":	"level 41 text"
     }
     }
     ],
 	"database": [
     {
-      "id":	"Database",
+      "id":	"database",
       "level1":	{
-		"levelname": "Level 1 – Basic",
-		"levelContents" : [{
-      	"level11":	"Theoretical knowledge of database systems",
-      	"level12":	"Starting and stopping databases",
-      	"level13":	"Identify DB processes and file structure at OS level",
-      	"level14":	"Space management (tablespace extension)",
-      	"level15":	"Able to locate and interpret  DB logs"
-    	}]
-		},
+      	"level11":	"whatever text",
+      	"level12":	"whatever text",
+      	"level13":	"whatever text"
+    	},
     "level2":	{
-		"levelname": "Level 2 - Intermediate",
-		"levelContents" : [{
     	"level21":	"level 21 text",
     	"level22":	"level 22 text",
     	"level23":	"level 21 text",
@@ -104,11 +76,8 @@
     	"level28":	"level 21 text",
     	"level29":	"level 21 text",
     	"level210":	"level 21 text"
-    }]
-	},
+    },
 	    "level3":	{
-		"levelname": "Level 3 - Advanced",
-		"levelContents" : [{
     	"level31":	"level 21 text",
     	"level32":	"level 22 text",
     	"level33":	"level 21 text",
@@ -118,11 +87,8 @@
     	"level37":	"level 21 text",
     	"level38":	"level 21 text",
     	"level39":	"level 21 text"
-    }]
-	},
+    },
 	    "level4":	{
-		"levelname": "Level 4 - Expert",
-		"levelContents" : [{
     	"level41":	"level 41 text",
     	"level42":	"level 41 text",
     	"level43":	"level 41 text",
@@ -130,16 +96,13 @@
     	"level45":	"level 41 text",
     	"level46":	"level 41 text",
     	"level47":	"level 41 text"
-    }]
     }
     }
     ],
   "sap": [
     {
-      "id":	"SAP Environment",
+      "id":	"sap",
       "level1":	{
-		"levelname": "Level 1 – Basic",
-		"levelContents" : [{
       	"level11":	"whatever text",
         "level12":	"whatever text",
       	"level13":	"whatever text",
@@ -147,11 +110,8 @@
       	"level15":	"whatever text",
       	"level16":	"whatever text",
       	"level17":	"whatever text"
-    	}]
-		},
+    	},
     "level2":	{
-		"levelname": "Level 2 - Intermediate",
-		"levelContents" : [{
       	"level21":	"whatever text",
         "level22":	"whatever text",
       	"level23":	"whatever text",
@@ -162,11 +122,8 @@
       	"level28":	"whatever text",
       	"level29":	"whatever text",
       	"level210":	"whatever text"
-    }]
-	},
+    },
 	    "level3":	{
-		"levelname": "Level 3 - Advanced",
-		"levelContents" : [{
       	"level31":	"whatever text",
         "level32":	"whatever text",
       	"level33":	"whatever text",
@@ -174,17 +131,13 @@
       	"level35":	"whatever text",
       	"level36":	"whatever text",
       	"level37":	"whatever text"
-    }]
-	},
+    },
 	    "level4":	{
-		  "levelname": "Level 4 - Expert",
-		  "levelContents" : [{
     	  "level41":	"level 41 text",
     	  "level42":	"level 42 text",
     	  "level43":	"level 41 text",
     	  "level44":	"level 42 text",
     	  "level45":	"level 41 text"
-    }]
     }
     }
     ]
