@@ -1,7 +1,7 @@
 {
 	"network": [
     {
-      "id":	"net",
+      "id":	"Networking",
 		"level1":	{
 			"levelname": "Level 1 – Basic",
 			"level11":	"Basic theoretical knowledge of networking (knowing the main networking components and protocols)"
