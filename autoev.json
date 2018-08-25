@@ -4,33 +4,33 @@
       "id":	"Networking",
       "level1":	{
 		"levelname": "Level 1 – Basic",
-			"levelContents" : {
+			"levelContents" : [{
 			"level11":	"Basic theoretical knowledge of networking (knowing the main networking components and protocols)"
-			}
+			}]
 		},
     "level2":	{
 		"levelname": "Level 2 - Intermediate",
-			"levelContents" : {
+			"levelContents" : [{
 			"level21":	"Understand how SAP Systems communicate over the network",
 			"level22":	"Know SAP internal communication ports",
 			"level23":	"Theoretical understanding of SAP secure communications",
 			"level24":	"Capability to cooperate with network experts in solving networking issues"
-			}
+			}]
 		},
 	    "level3":	{
 			"levelname": "Level 3 - Advanced",
-			 "levelContents" : {
+			 "levelContents" : [{
 			"level31":	"Knows the network concepts that facilitate communication between SAP systems and other applications (interfacing with other non-SAP applications)",
 			"level32":	"Basic knowledge of SAP network security (gateway security, certificate, SNC….)",
 			"level33":	"Awareness regarding the dependencies between different SAP communication channels (how will a component failure affect the entire SAP ecosystem)"
-			}
+			}]
 		},
 	    "level4":	{
 		"levelname": "Level 4 - Expert",
-		"levelContents" : {
+		"levelContents" : [{
     	"level41":	"Provides specialized technical guidance on complex architecture challenges",
     	"level42":	"Able to analyze existing network structure in order to define, design and achieve simplified, application- focused network architectures (finding bottlenecks, network tuning etc.)"
-		}
+		}]
 		}
     }
     ],
